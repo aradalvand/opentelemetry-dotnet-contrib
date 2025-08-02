@@ -1,7 +1,8 @@
 # Changelog
 
 ## Unreleased
-* Introduce `RedisInstrumentationContext` and use it as the context object for `Filter` and `Enrich`
+
+* Introduce `RedisInstrumentationContext` and use it as context for `Filter`
   ([#2977](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/pull/2977))
 
 ## 1.12.0-beta.2
